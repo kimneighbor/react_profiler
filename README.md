@@ -1,1 +1,1 @@
-# React Profiler 성능 측정
+# React Profiler 와 React.memo 를 이용한 성능측정
